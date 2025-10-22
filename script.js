@@ -13,7 +13,7 @@ title.style.color = "royalblue";
 title.style.textTransform = "uppercase";
 
 const secondItem = document.querySelectorAll('.menu-item')[1];
-secondItem.style.backgroundColor = "#ff9090ff";
+secondItem.style.backgroundColor = "#fe8686ff";
 secondItem.style.fontSize = "18px";
 
 actionButton.classList.toggle('hidden');
