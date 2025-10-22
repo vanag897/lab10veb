@@ -16,7 +16,6 @@ const secondItem = document.querySelectorAll('.menu-item')[1];
 secondItem.style.backgroundColor = "#ff9090ff";
 secondItem.style.fontSize = "18px";
 
-actionButton.classList.toggle('hidden');
 console.log(actionButton.classList);
 
 title.setAttribute('data-version', '1.0');
